@@ -23,5 +23,6 @@ Welcome to my GitHub profile👋
 - 📫 How to reach me:
 
 <div>
-  <a href="https://www.linkedin.com/in/jhonas-colares-barbosa-alves-7b3bab66/"><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css"></a>   <a href = "mailto:jhonascbarbosa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:jhonascbarbosa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/jhonas-colares-barbosa-alves-7b3bab66/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
