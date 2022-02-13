@@ -1,7 +1,7 @@
 ### Hi there, my name is Jhonas C. B. Alves! 
 Welcome to my GitHub profile👋
 
-- 🔭 I’m currently working on Prefeitura de Cianorte
+- 🔭 I’m currently working to get a job migration to IT
 - 🌱 I’m currently learning React / JavaScript / NodeJS
 - 👯 I’m looking to collaborate on fullstack projects
 - 🤔 I’m looking for help with getting a new job
