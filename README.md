@@ -1,10 +1,9 @@
 ### Hi there, my name is Jhonas C. B. Alves! 
 Welcome to my GitHub profile👋
 
-- 🔭 I’m currently working to get a job migration to IT
-- 🌱 I’m currently learning React / JavaScript / NodeJS
+- 🔭 I’m currently in process to migration to IT
+- 🌱 I’m currently learning Java/Typescript/Angular
 - 👯 I’m looking to collaborate on fullstack projects
-- 🤔 I’m looking for help with getting a new job
 - 💬 Ask me about anything you want
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Studying is a hobby for me
