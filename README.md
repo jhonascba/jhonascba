@@ -1,8 +1,8 @@
 ### Hi there, my name is Jhonas C. B. Alves! 
 Welcome to my GitHub profile👋
 
-- 🔭 I’m currently in process to migration to IT
-- 🌱 I’m currently learning Java/Typescript/Angular
+- 🔭 I’m currently working at myOrg Tech
+- 🌱 I’m currently learning Spring/Angular
 - 👯 I’m looking to collaborate on fullstack projects
 - 💬 Ask me about anything you want
 - 😄 Pronouns: He/His
