@@ -2,7 +2,7 @@
 Welcome to my GitHub profile👋
 
 - 🔭 I’m currently working at myOrg Tech
-- 🌱 I’m currently learning Spring/Angular
+- 🌱 I’m currently learning Spring-Boot/Angular
 - 👯 I’m looking to collaborate on fullstack projects
 - 💬 Ask me about anything you want
 - 😄 Pronouns: He/His
