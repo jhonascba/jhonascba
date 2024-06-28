@@ -2,8 +2,7 @@
 Welcome to my GitHub profile👋
 
 - 🔭 I’m currently working at myOrg Tech
-- 🌱 I’m currently learning Spring-Boot/Angular
-- 👯 I’m looking to collaborate on fullstack projects
+- 🌱 I’m currently improving my Spring-Boot and Angular skills, and also learning a bit of data science
 - 💬 Ask me about anything you want
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Studying is a hobby for me
